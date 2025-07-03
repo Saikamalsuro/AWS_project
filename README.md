@@ -156,9 +156,3 @@ For production deployment, use gunicorn or uWSGI behind Nginx/Apache or deploy o
 Developed by: @saikamal
 
 📧 Contact: saikamalsuro@gmail.com
-=======
-Developed by: @SAGAR
-
-📧 Contact: Sagar@example.com
-
->>>>>>> 94a534bf9b8a16caf8cc992f9340b36b51b550cb
